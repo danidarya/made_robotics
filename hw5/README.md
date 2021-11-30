@@ -1,5 +1,7 @@
 # Homework 5
 
+Результаты работы программы находятся в папке [pictures](https://github.com/danidarya/made_robotics/tree/main/hw5/pictures)
+
 In this homework assignment you are going to implement an algorithm for 
 trajectory calculation for a self-driving car in a parking lot.
 
