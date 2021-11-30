@@ -1,9 +1,7 @@
 from tkinter import *
 import math
 import heapq, random
-import time
 from sympy import Point, Polygon
-import numpy as np
 
 '''================= Your classes and methods ================='''
 
